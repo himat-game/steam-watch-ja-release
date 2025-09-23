@@ -26,12 +26,15 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Restore state artifact (if exists)
-        uses: actions/download-artifact@v4
-        with:
-          name: state
-          path: .
-        continue-on-error: true
+- name: Restore state cache
+  uses: actions/cache@v4
+  with:
+    path: state.json.gz
+    # 同一キーにしておくと常に上書き更新されます
+    key: state-${{ runner.os }}-v1
+    restore-keys: |
+      state-${{ runner.os }}-
+      state-
 
       - name: Show time & event
         run: |
