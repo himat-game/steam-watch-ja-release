@@ -177,7 +177,7 @@ def main():
         for i in range(args.batch_size):
             if n == 0:
                 break
-            idx = (cursor + i) % n
+            idx = (cursor - i) % n
             appid = apps[idx]
 
             try:
@@ -245,7 +245,7 @@ def main():
             time.sleep(args.sleep_ms / 1000)
 
         # カーソル前進
-        state["cursor"] = (cursor + checked) % (n or 1)
+        state["cursor"] = (cursor - checked) % (n or 1)
 
         # RSS出力（上限）
         rss_lang_xml = update_rss(
