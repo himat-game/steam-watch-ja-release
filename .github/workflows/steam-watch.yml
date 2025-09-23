@@ -2,7 +2,7 @@ name: steam-watch
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # 30分おき（UTC）
+    - cron: "*/10 * * * *"   # 30分おき（UTC）
   workflow_dispatch:
 
 concurrency:
@@ -41,9 +41,9 @@ jobs:
       - name: Run watcher
         run: |
           python steam_watch.py \
-            --batch-size 250 \
-            --max-rss 200 \
-            --sleep-ms 200
+            --batch-size 1000 \
+            --max-rss 300 \
+            --sleep-ms 150
 
       # （任意）確認用にArtifactも上げる：なくても運用できる
       - name: Upload state as artifact (optional)
