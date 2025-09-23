@@ -1,0 +1,70 @@
+name: steam-watch
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # 30分おき（UTC）
+  workflow_dispatch:
+
+concurrency:
+  group: steam-watch
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Restore state artifact (if exists)
+        uses: actions/download-artifact@v4
+        with:
+          name: state
+          path: .
+        continue-on-error: true
+
+      - name: Show time & event
+        run: |
+          echo "event=${{ github.event_name }}"
+          echo "UTC:   $(date -u '+%Y-%m-%d %H:%M:%S')"
+          echo "Local: $(date    '+%Y-%m-%d %H:%M:%S')"
+
+      - name: Run watcher
+        run: |
+          python steam_watch.py \
+            --batch-size 250 \
+            --max-rss 200 \
+            --sleep-ms 200
+
+      - name: Upload state artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: state
+          path: state.json.gz
+          if-no-files-found: warn
+          retention-days: 90
+
+      - name: Commit & push RSS diffs
+        run: |
+          set -euxo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add rss_lang_ja_added.xml rss_release_changed.xml || true
+          if ! git diff --cached --quiet; then
+            git commit -m "update RSS [skip ci]"
+            git pull --rebase || true
+            git push
+          else
+            echo "No RSS changes."
+          fi
