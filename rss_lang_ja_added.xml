@@ -1,108 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Steam: Japanese Language Added</title>
   <link>https://example.invalid/rss_lang_ja_added.xml</link>
   <description>Steam watch feed</description>
   <language>en</language>
-  <lastBuildDate>Tue, 23 Sep 2025 01:35:08 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Sep 2025 01:51:36 +0000</lastBuildDate>
   <item>
     <title>[JA added] Counter-Strike 2</title>
     <link>https://store.steampowered.com/app/730/</link>
-    <guid>ja-730-1758591204</guid>
-    <pubDate>Tue, 23 Sep 2025 01:33:24 +0000</pubDate>
-    <description>Japanese language appeared in supported_languages.</description>
+    <guid>ja-730-1758592187</guid>
+    <pubDate>Tue, 23 Sep 2025 01:49:47 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/capsule_184x69.jpg?t=1749053861" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/capsule_184x69.jpg?t=1749053861" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Portal 2</title>
     <link>https://store.steampowered.com/app/659/</link>
-    <guid>ja-659-1758591202</guid>
-    <pubDate>Tue, 23 Sep 2025 01:33:22 +0000</pubDate>
-    <description>Japanese language appeared in supported_languages.</description>
+    <guid>ja-659-1758592186</guid>
+    <pubDate>Tue, 23 Sep 2025 01:49:46 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/capsule_184x69.jpg?t=1745363004" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/capsule_184x69.jpg?t=1745363004" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Portal 2</title>
     <link>https://store.steampowered.com/app/620/</link>
-    <guid>ja-620-1758591198</guid>
-    <pubDate>Tue, 23 Sep 2025 01:33:18 +0000</pubDate>
-    <description>Japanese language appeared in supported_languages.</description>
+    <guid>ja-620-1758592181</guid>
+    <pubDate>Tue, 23 Sep 2025 01:49:41 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/capsule_184x69.jpg?t=1745363004" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/capsule_184x69.jpg?t=1745363004" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Dota 2</title>
     <link>https://store.steampowered.com/app/570/</link>
-    <guid>ja-570-1758591194</guid>
-    <pubDate>Tue, 23 Sep 2025 01:33:14 +0000</pubDate>
-    <description>Japanese language appeared in supported_languages.</description>
+    <guid>ja-570-1758592177</guid>
+    <pubDate>Tue, 23 Sep 2025 01:49:37 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_184x69.jpg?t=1757000652" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_184x69.jpg?t=1757000652" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Left 4 Dead 2</title>
     <link>https://store.steampowered.com/app/550/</link>
-    <guid>ja-550-1758591192</guid>
-    <pubDate>Tue, 23 Sep 2025 01:33:12 +0000</pubDate>
-    <description>Japanese language appeared in supported_languages.</description>
+    <guid>ja-550-1758592175</guid>
+    <pubDate>Tue, 23 Sep 2025 01:49:35 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/capsule_184x69.jpg?t=1745368562" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/capsule_184x69.jpg?t=1745368562" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Left 4 Dead</title>
     <link>https://store.steampowered.com/app/500/</link>
-    <guid>ja-500-1758591190</guid>
-    <pubDate>Tue, 23 Sep 2025 01:33:10 +0000</pubDate>
-    <description>Japanese language appeared in supported_languages.</description>
+    <guid>ja-500-1758592173</guid>
+    <pubDate>Tue, 23 Sep 2025 01:49:33 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500/capsule_184x69.jpg?t=1745368560" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500/capsule_184x69.jpg?t=1745368560" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Team Fortress 2</title>
     <link>https://store.steampowered.com/app/440/</link>
-    <guid>ja-440-1758591187</guid>
-    <pubDate>Tue, 23 Sep 2025 01:33:07 +0000</pubDate>
-    <description>Japanese language appeared in supported_languages.</description>
+    <guid>ja-440-1758592171</guid>
+    <pubDate>Tue, 23 Sep 2025 01:49:31 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/capsule_184x69.jpg?t=1757348372" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/capsule_184x69.jpg?t=1757348372" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Half-Life 2: Episode Two</title>
     <link>https://store.steampowered.com/app/420/</link>
-    <guid>ja-420-1758591187</guid>
-    <pubDate>Tue, 23 Sep 2025 01:33:07 +0000</pubDate>
-    <description>Japanese language appeared in supported_languages.</description>
+    <guid>ja-420-1758592170</guid>
+    <pubDate>Tue, 23 Sep 2025 01:49:30 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420/capsule_184x69.jpg?t=1745368556" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420/capsule_184x69.jpg?t=1745368556" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Portal: First Slice</title>
     <link>https://store.steampowered.com/app/410/</link>
-    <guid>ja-410-1758591186</guid>
-    <pubDate>Tue, 23 Sep 2025 01:33:06 +0000</pubDate>
-    <description>Japanese language appeared in supported_languages.</description>
+    <guid>ja-410-1758592170</guid>
+    <pubDate>Tue, 23 Sep 2025 01:49:30 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410/capsule_184x69.jpg?t=1447351220" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410/capsule_184x69.jpg?t=1447351220" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Portal</title>
     <link>https://store.steampowered.com/app/400/</link>
-    <guid>ja-400-1758591186</guid>
-    <pubDate>Tue, 23 Sep 2025 01:33:06 +0000</pubDate>
-    <description>Japanese language appeared in supported_languages.</description>
+    <guid>ja-400-1758592169</guid>
+    <pubDate>Tue, 23 Sep 2025 01:49:29 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/capsule_184x69.jpg?t=1745368554" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/capsule_184x69.jpg?t=1745368554" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Half-Life 2: Episode One</title>
     <link>https://store.steampowered.com/app/380/</link>
-    <guid>ja-380-1758591186</guid>
-    <pubDate>Tue, 23 Sep 2025 01:33:06 +0000</pubDate>
-    <description>Japanese language appeared in supported_languages.</description>
+    <guid>ja-380-1758592169</guid>
+    <pubDate>Tue, 23 Sep 2025 01:49:29 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/380/capsule_184x69.jpg?t=1745368553" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/380/capsule_184x69.jpg?t=1745368553" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Half-Life: Source</title>
     <link>https://store.steampowered.com/app/280/</link>
-    <guid>ja-280-1758591182</guid>
-    <pubDate>Tue, 23 Sep 2025 01:33:02 +0000</pubDate>
-    <description>Japanese language appeared in supported_languages.</description>
+    <guid>ja-280-1758592165</guid>
+    <pubDate>Tue, 23 Sep 2025 01:49:25 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280/capsule_184x69.jpg?t=1721932678" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280/capsule_184x69.jpg?t=1721932678" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Counter-Strike: Source</title>
     <link>https://store.steampowered.com/app/240/</link>
-    <guid>ja-240-1758591182</guid>
-    <pubDate>Tue, 23 Sep 2025 01:33:02 +0000</pubDate>
-    <description>Japanese language appeared in supported_languages.</description>
+    <guid>ja-240-1758592165</guid>
+    <pubDate>Tue, 23 Sep 2025 01:49:25 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/capsule_184x69.jpg?t=1745368575" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/capsule_184x69.jpg?t=1745368575" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Half-Life 2</title>
     <link>https://store.steampowered.com/app/220/</link>
-    <guid>ja-220-1758591181</guid>
-    <pubDate>Tue, 23 Sep 2025 01:33:01 +0000</pubDate>
-    <description>Japanese language appeared in supported_languages.</description>
+    <guid>ja-220-1758592164</guid>
+    <pubDate>Tue, 23 Sep 2025 01:49:24 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/951c6aca52bf32d7c95e9f8b3c04fa95e9a735ea/capsule_184x69.jpg?t=1745368545" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/951c6aca52bf32d7c95e9f8b3c04fa95e9a735ea/capsule_184x69.jpg?t=1745368545" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
 </channel>
 </rss>
