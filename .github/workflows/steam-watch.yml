@@ -16,25 +16,21 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
 
-- name: Restore state cache
-  uses: actions/cache@v4
-  with:
-    path: state.json.gz
-    # 同一キーにしておくと常に上書き更新されます
-    key: state-${{ runner.os }}-v1
-    restore-keys: |
-      state-${{ runner.os }}-
-      state-
+      # ▼ ここで前回の state を復元（初回は無くてもOK）
+      - name: Restore state cache
+        uses: actions/cache@v4
+        with:
+          path: state.json.gz
+          key: state-${{ runner.os }}-v1
+          restore-keys: |
+            state-${{ runner.os }}-
+            state-
 
       - name: Show time & event
         run: |
@@ -49,20 +45,20 @@ jobs:
             --max-rss 200 \
             --sleep-ms 200
 
-      - name: Upload state artifact
+      # （任意）確認用にArtifactも上げる：なくても運用できる
+      - name: Upload state as artifact (optional)
         uses: actions/upload-artifact@v4
         with:
           name: state
           path: state.json.gz
           if-no-files-found: warn
-          retention-days: 90
+          retention-days: 14
 
       - name: Commit & push RSS diffs
         run: |
           set -euxo pipefail
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add rss_lang_ja_added.xml rss_release_changed.xml || true
           if ! git diff --cached --quiet; then
             git commit -m "update RSS [skip ci]"
