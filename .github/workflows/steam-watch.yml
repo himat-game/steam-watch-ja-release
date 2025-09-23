@@ -2,7 +2,7 @@ name: steam-watch
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # 30分おき（UTC）
+    - cron: "*/5 * * * *"   # 30分おき（UTC）
   workflow_dispatch:
 
 concurrency:
