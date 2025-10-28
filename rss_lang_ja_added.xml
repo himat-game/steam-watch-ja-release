@@ -5,1028 +5,964 @@
   <link>https://example.invalid/rss_lang_ja_added.xml</link>
   <description>Steam watch feed</description>
   <language>en</language>
-  <lastBuildDate>Tue, 28 Oct 2025 23:36:32 +0000</lastBuildDate>
-  <item>
-    <title>[JA added] RPG Developer Bakin Clean City Kit</title>
-    <link>https://store.steampowered.com/app/4093410/</link>
-    <guid>ja-4093410-1761694591</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:31 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093410/a2f6bf03cd09e3c9a3cbe1c9be450f009b212780/capsule_184x69.jpg?t=1761642896" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093410/a2f6bf03cd09e3c9a3cbe1c9be450f009b212780/capsule_184x69.jpg?t=1761642896" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
-  </item>
-  <item>
-    <title>[JA added] RPG Developer Bakin Smile Objects Vol.3</title>
-    <link>https://store.steampowered.com/app/4093420/</link>
-    <guid>ja-4093420-1761694591</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:31 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093420/33fd0c852a5d8e5dfc6e80321c21e541d189dd46/capsule_184x69.jpg?t=1761641627" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093420/33fd0c852a5d8e5dfc6e80321c21e541d189dd46/capsule_184x69.jpg?t=1761641627" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
-  </item>
-  <item>
-    <title>[JA added] Hentai Gothic</title>
-    <link>https://store.steampowered.com/app/4093590/</link>
-    <guid>ja-4093590-1761694588</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:28 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093590/03a17eaf6df60cf8eb9351897a34cd3e0c513ea4/capsule_184x69.jpg?t=1761014203" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093590/03a17eaf6df60cf8eb9351897a34cd3e0c513ea4/capsule_184x69.jpg?t=1761014203" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
-  </item>
-  <item>
-    <title>[JA added] Everlusting Life - Mascot Luna</title>
-    <link>https://store.steampowered.com/app/4093780/</link>
-    <guid>ja-4093780-1761694586</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:26 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093780/937508e789cf1d1223ce16329926f2689c291c61/capsule_184x69.jpg?t=1761559464" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093780/937508e789cf1d1223ce16329926f2689c291c61/capsule_184x69.jpg?t=1761559464" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
-  </item>
-  <item>
-    <title>[JA added] THE FINALS - TEAM SECRET TGM25</title>
-    <link>https://store.steampowered.com/app/4093790/</link>
-    <guid>ja-4093790-1761694586</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:26 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093790/fd844362d63e3a7c5f6008eb4d7c80eb0de504e6/capsule_184x69.jpg?t=1760724420" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093790/fd844362d63e3a7c5f6008eb4d7c80eb0de504e6/capsule_184x69.jpg?t=1760724420" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
-  </item>
-  <item>
-    <title>[JA added] THE FINALS - FNATIC TGM25</title>
-    <link>https://store.steampowered.com/app/4093800/</link>
-    <guid>ja-4093800-1761694585</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:25 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093800/3d701bf1d39ccd1bcd03d149f807f2746956b916/capsule_184x69.jpg?t=1760724424" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093800/3d701bf1d39ccd1bcd03d149f807f2746956b916/capsule_184x69.jpg?t=1760724424" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
-  </item>
-  <item>
-    <title>[JA added] THE FINALS - GEN.G TGM25</title>
-    <link>https://store.steampowered.com/app/4093810/</link>
-    <guid>ja-4093810-1761694585</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:25 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093810/2e194765e52336b30a3b398f463b92688bdb5fb8/capsule_184x69.jpg?t=1760724428" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093810/2e194765e52336b30a3b398f463b92688bdb5fb8/capsule_184x69.jpg?t=1760724428" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
-  </item>
-  <item>
-    <title>[JA added] THE FINALS - TSM TGM25</title>
-    <link>https://store.steampowered.com/app/4093830/</link>
-    <guid>ja-4093830-1761694585</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:25 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093830/893ff6529aacf8c7e30a189db0707a63ad7b9302/capsule_184x69.jpg?t=1760724432" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093830/893ff6529aacf8c7e30a189db0707a63ad7b9302/capsule_184x69.jpg?t=1760724432" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
-  </item>
-  <item>
-    <title>[JA added] THE FINALS - VANGUARD TGM25</title>
-    <link>https://store.steampowered.com/app/4093840/</link>
-    <guid>ja-4093840-1761694584</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:24 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093840/8d6b5bab955ee8547c8544e2a2682fd3cbe4617e/capsule_184x69.jpg?t=1760724435" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093840/8d6b5bab955ee8547c8544e2a2682fd3cbe4617e/capsule_184x69.jpg?t=1760724435" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
-  </item>
-  <item>
-    <title>[JA added] Angry Cleaner VR</title>
-    <link>https://store.steampowered.com/app/4093880/</link>
-    <guid>ja-4093880-1761694584</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:24 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093880/7bba9cd079e604facee46e80d7982074145d6def/capsule_184x69.jpg?t=1761138315" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093880/7bba9cd079e604facee46e80d7982074145d6def/capsule_184x69.jpg?t=1761138315" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
-  </item>
-  <item>
-    <title>[JA added] The Ramen Shop</title>
-    <link>https://store.steampowered.com/app/4093970/</link>
-    <guid>ja-4093970-1761694583</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:23 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093970/657726fbe4fd4698f4806804ea96910bff83fa28/capsule_184x69.jpg?t=1761476286" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093970/657726fbe4fd4698f4806804ea96910bff83fa28/capsule_184x69.jpg?t=1761476286" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
-  </item>
-  <item>
-    <title>[JA added] PORTERS Demo</title>
-    <link>https://store.steampowered.com/app/4093990/</link>
-    <guid>ja-4093990-1761694582</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:22 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093990/e6dc12556bacb9cbf551bdfc0da4d90d40a5daff/capsule_184x69.jpg?t=1760983091" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093990/e6dc12556bacb9cbf551bdfc0da4d90d40a5daff/capsule_184x69.jpg?t=1760983091" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
-  </item>
-  <item>
-    <title>[JA added] Escobar Simulator</title>
-    <link>https://store.steampowered.com/app/4094070/</link>
-    <guid>ja-4094070-1761694582</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:22 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094070/298570a331beb9d902b06b983d8224a08a01e8bd/capsule_184x69.jpg?t=1760986233" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094070/298570a331beb9d902b06b983d8224a08a01e8bd/capsule_184x69.jpg?t=1760986233" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
-  </item>
+  <lastBuildDate>Tue, 28 Oct 2025 23:53:31 +0000</lastBuildDate>
   <item>
     <title>[JA added] Romcab Puzzle</title>
     <link>https://store.steampowered.com/app/4094400/</link>
-    <guid>ja-4094400-1761694578</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:18 +0000</pubDate>
+    <guid>ja-4094400-1761695567</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:47 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094400/da8853e8b6c572efb0dd49cf91e2eb7499d5244d/capsule_184x69.jpg?t=1761230820" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094400/da8853e8b6c572efb0dd49cf91e2eb7499d5244d/capsule_184x69.jpg?t=1761230820" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Coloring Voxels - Halloween Pack</title>
     <link>https://store.steampowered.com/app/4094480/</link>
-    <guid>ja-4094480-1761694577</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:17 +0000</pubDate>
+    <guid>ja-4094480-1761695567</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:47 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094480/e6d5e67d7f7470bff27e6b4b4a724626a0923f5d/capsule_184x69.jpg?t=1760727524" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094480/e6d5e67d7f7470bff27e6b4b4a724626a0923f5d/capsule_184x69.jpg?t=1760727524" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Hoptale Demo</title>
     <link>https://store.steampowered.com/app/4094560/</link>
-    <guid>ja-4094560-1761694577</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:17 +0000</pubDate>
+    <guid>ja-4094560-1761695566</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:46 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094560/5a573cbf5702a210d6d563a88252c460ee95bd6e/capsule_184x69.jpg?t=1761407549" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094560/5a573cbf5702a210d6d563a88252c460ee95bd6e/capsule_184x69.jpg?t=1761407549" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Homestead of Solitude</title>
     <link>https://store.steampowered.com/app/4094700/</link>
-    <guid>ja-4094700-1761694575</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:15 +0000</pubDate>
+    <guid>ja-4094700-1761695564</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:44 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094700/dd13c7666279299790af2e1c6f1081ebeda6d205/capsule_184x69.jpg?t=1761224626" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094700/dd13c7666279299790af2e1c6f1081ebeda6d205/capsule_184x69.jpg?t=1761224626" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Space Evolver</title>
     <link>https://store.steampowered.com/app/4094820/</link>
-    <guid>ja-4094820-1761694573</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:13 +0000</pubDate>
+    <guid>ja-4094820-1761695563</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:43 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094820/9bd62c68e6e9530a3744e06d850ca936fedf0242/capsule_184x69.jpg?t=1761063875" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094820/9bd62c68e6e9530a3744e06d850ca936fedf0242/capsule_184x69.jpg?t=1761063875" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Ballistic Brews</title>
     <link>https://store.steampowered.com/app/4095000/</link>
-    <guid>ja-4095000-1761694570</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:10 +0000</pubDate>
+    <guid>ja-4095000-1761695559</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:39 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095000/a4c3edb47e7c16b6d69a18590bfccdba31de787d/capsule_184x69.jpg?t=1761079425" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095000/a4c3edb47e7c16b6d69a18590bfccdba31de787d/capsule_184x69.jpg?t=1761079425" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Street Life Simulator Demo</title>
     <link>https://store.steampowered.com/app/4095410/</link>
-    <guid>ja-4095410-1761694565</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:05 +0000</pubDate>
+    <guid>ja-4095410-1761695553</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:33 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095410/146286c8b495d2c90462adaff2f61c2e2ab4a7f9/capsule_184x69.jpg?t=1760971520" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095410/146286c8b495d2c90462adaff2f61c2e2ab4a7f9/capsule_184x69.jpg?t=1760971520" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Cryoborn : convergence</title>
     <link>https://store.steampowered.com/app/4095450/</link>
-    <guid>ja-4095450-1761694564</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:04 +0000</pubDate>
+    <guid>ja-4095450-1761695552</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:32 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095450/6573be8b409ded4bdc968b41352aa71dd3041aeb/capsule_184x69.jpg?t=1761021364" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095450/6573be8b409ded4bdc968b41352aa71dd3041aeb/capsule_184x69.jpg?t=1761021364" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Service Please Demo</title>
     <link>https://store.steampowered.com/app/4095510/</link>
-    <guid>ja-4095510-1761694563</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:03 +0000</pubDate>
+    <guid>ja-4095510-1761695551</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:31 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095510/ae7d572ec2f2aa8e7093829fa343474cbd49de66/capsule_184x69.jpg?t=1760462163" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095510/ae7d572ec2f2aa8e7093829fa343474cbd49de66/capsule_184x69.jpg?t=1760462163" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Path of Exile - Champion of Theopolis Supporter Pack</title>
     <link>https://store.steampowered.com/app/4095530/</link>
-    <guid>ja-4095530-1761694563</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:03 +0000</pubDate>
+    <guid>ja-4095530-1761695550</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:30 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095530/88627255e986f965ed7a468ca2654d78c47e7b77/capsule_184x69.jpg?t=1761688961" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095530/88627255e986f965ed7a468ca2654d78c47e7b77/capsule_184x69.jpg?t=1761688961" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Path of Exile - Grand Champion of Theopolis Supporter Pack</title>
     <link>https://store.steampowered.com/app/4095540/</link>
-    <guid>ja-4095540-1761694563</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:03 +0000</pubDate>
+    <guid>ja-4095540-1761695550</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:30 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095540/47f096ae191c524543ce17f9cd46a4e763a66b4a/capsule_184x69.jpg?t=1761688964" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095540/47f096ae191c524543ce17f9cd46a4e763a66b4a/capsule_184x69.jpg?t=1761688964" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Path of Exile - Eternal Champion of Theopolis Supporter Pack</title>
     <link>https://store.steampowered.com/app/4095550/</link>
-    <guid>ja-4095550-1761694562</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:02 +0000</pubDate>
+    <guid>ja-4095550-1761695549</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:29 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095550/895bb14baad37c08028cc392f028384c6ba84bc7/capsule_184x69.jpg?t=1761688966" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095550/895bb14baad37c08028cc392f028384c6ba84bc7/capsule_184x69.jpg?t=1761688966" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Path of Exile - Verdant Magus Supporter Pack</title>
     <link>https://store.steampowered.com/app/4095560/</link>
-    <guid>ja-4095560-1761694562</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:02 +0000</pubDate>
+    <guid>ja-4095560-1761695549</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:29 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095560/f63f67c5d3ee9c16fee24e55714f2013cdacd3e1/capsule_184x69.jpg?t=1761688920" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095560/f63f67c5d3ee9c16fee24e55714f2013cdacd3e1/capsule_184x69.jpg?t=1761688920" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Path of Exile - Grand Verdant Magus Supporter Pack</title>
     <link>https://store.steampowered.com/app/4095570/</link>
-    <guid>ja-4095570-1761694562</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:02 +0000</pubDate>
+    <guid>ja-4095570-1761695549</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:29 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095570/016faa9c0257c7b37bed6400d6f2ee308a732bb8/capsule_184x69.jpg?t=1761688922" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095570/016faa9c0257c7b37bed6400d6f2ee308a732bb8/capsule_184x69.jpg?t=1761688922" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Path of Exile - Supreme Verdant Magus Supporter Pack</title>
     <link>https://store.steampowered.com/app/4095580/</link>
-    <guid>ja-4095580-1761694561</guid>
-    <pubDate>Tue, 28 Oct 2025 23:36:01 +0000</pubDate>
+    <guid>ja-4095580-1761695548</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:28 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095580/87b8ae7e749b174666b6b54f6ceee5158fa6b9c5/capsule_184x69.jpg?t=1761688925" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095580/87b8ae7e749b174666b6b54f6ceee5158fa6b9c5/capsule_184x69.jpg?t=1761688925" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Punch, Rest, Repeat</title>
     <link>https://store.steampowered.com/app/4095710/</link>
-    <guid>ja-4095710-1761694559</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:59 +0000</pubDate>
+    <guid>ja-4095710-1761695546</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:26 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095710/9cde20ac1c4f4c3f6dd7dc026adb345f54191694/capsule_184x69.jpg?t=1761325605" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095710/9cde20ac1c4f4c3f6dd7dc026adb345f54191694/capsule_184x69.jpg?t=1761325605" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Neural: Forbidden</title>
     <link>https://store.steampowered.com/app/4096020/</link>
-    <guid>ja-4096020-1761694555</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:55 +0000</pubDate>
+    <guid>ja-4096020-1761695542</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:22 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096020/0e931c889063af85eb3fa6c17e16e4b5996f272d/capsule_184x69.jpg?t=1761077983" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096020/0e931c889063af85eb3fa6c17e16e4b5996f272d/capsule_184x69.jpg?t=1761077983" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] ま～する -第１章-</title>
     <link>https://store.steampowered.com/app/4096080/</link>
-    <guid>ja-4096080-1761694554</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:54 +0000</pubDate>
+    <guid>ja-4096080-1761695541</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:21 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096080/e33438685bdf3310a7f1ea97b6df4bd874d15d43/capsule_184x69.jpg?t=1760997700" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096080/e33438685bdf3310a7f1ea97b6df4bd874d15d43/capsule_184x69.jpg?t=1760997700" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Pussy Master: The Wet Pussy Pit</title>
     <link>https://store.steampowered.com/app/4096100/</link>
-    <guid>ja-4096100-1761694554</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:54 +0000</pubDate>
+    <guid>ja-4096100-1761695540</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:20 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096100/bbf1c9a56ff02ba5ddeb9cb41d70f0f65180ae69/capsule_184x69.jpg?t=1761106601" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096100/bbf1c9a56ff02ba5ddeb9cb41d70f0f65180ae69/capsule_184x69.jpg?t=1761106601" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Crime Scene Clean: Paranormal Demo</title>
     <link>https://store.steampowered.com/app/4096110/</link>
-    <guid>ja-4096110-1761694553</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:53 +0000</pubDate>
+    <guid>ja-4096110-1761695540</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:20 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096110/ed64c4abcab86041bcfbaa00f80e92380ff26cd8/capsule_184x69.jpg?t=1761515622" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096110/ed64c4abcab86041bcfbaa00f80e92380ff26cd8/capsule_184x69.jpg?t=1761515622" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Hentai Pieces</title>
     <link>https://store.steampowered.com/app/4096340/</link>
-    <guid>ja-4096340-1761694550</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:50 +0000</pubDate>
+    <guid>ja-4096340-1761695536</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:16 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096340/b680a18fe209848a574b4360b133e4589abb4609/capsule_184x69.jpg?t=1761590542" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096340/b680a18fe209848a574b4360b133e4589abb4609/capsule_184x69.jpg?t=1761590542" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] FIND ALL: Halloween - Coloring Book</title>
     <link>https://store.steampowered.com/app/4096430/</link>
-    <guid>ja-4096430-1761694548</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:48 +0000</pubDate>
+    <guid>ja-4096430-1761695534</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:14 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096430/e823fc3ad1a0b8bb7a12c0d76b10bc2899179cc5/capsule_184x69.jpg?t=1761378240" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096430/e823fc3ad1a0b8bb7a12c0d76b10bc2899179cc5/capsule_184x69.jpg?t=1761378240" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] FIND ALL: Halloween - Extra Level</title>
     <link>https://store.steampowered.com/app/4096440/</link>
-    <guid>ja-4096440-1761694548</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:48 +0000</pubDate>
+    <guid>ja-4096440-1761695534</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:14 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096440/d1b9b18b327400731a62bb5d08572259221cc1c2/capsule_184x69.jpg?t=1761378257" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096440/d1b9b18b327400731a62bb5d08572259221cc1c2/capsule_184x69.jpg?t=1761378257" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] (ぶいちゅ〜バトル)VTBattle-VTubers aren't about the number of subscribers! It's about power! Demo</title>
     <link>https://store.steampowered.com/app/4096720/</link>
-    <guid>ja-4096720-1761694544</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:44 +0000</pubDate>
+    <guid>ja-4096720-1761695530</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:10 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096720/e38c700cd931ff14f313f2e2de3817f16ec7568d/capsule_184x69.jpg?t=1760679313" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096720/e38c700cd931ff14f313f2e2de3817f16ec7568d/capsule_184x69.jpg?t=1760679313" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] GLONK</title>
     <link>https://store.steampowered.com/app/4096800/</link>
-    <guid>ja-4096800-1761694543</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:43 +0000</pubDate>
+    <guid>ja-4096800-1761695528</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:08 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096800/22c5c4a12ecdb34d01efd300a95af2f334cfc973/capsule_184x69.jpg?t=1761137763" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096800/22c5c4a12ecdb34d01efd300a95af2f334cfc973/capsule_184x69.jpg?t=1761137763" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Golden Retriever Simple Life</title>
     <link>https://store.steampowered.com/app/4096810/</link>
-    <guid>ja-4096810-1761694542</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:42 +0000</pubDate>
+    <guid>ja-4096810-1761695528</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:08 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096810/777e4e9e732e74a5e6aad090876ac11c40d514ed/capsule_184x69.jpg?t=1761663503" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096810/777e4e9e732e74a5e6aad090876ac11c40d514ed/capsule_184x69.jpg?t=1761663503" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Bazar Simulator Online</title>
     <link>https://store.steampowered.com/app/4096850/</link>
-    <guid>ja-4096850-1761694542</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:42 +0000</pubDate>
+    <guid>ja-4096850-1761695528</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:08 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096850/288037668c78cc58c11b27d2e9b8613556941be2/capsule_184x69.jpg?t=1761589847" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096850/288037668c78cc58c11b27d2e9b8613556941be2/capsule_184x69.jpg?t=1761589847" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Hentai Haruko</title>
     <link>https://store.steampowered.com/app/4097130/</link>
-    <guid>ja-4097130-1761694539</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:39 +0000</pubDate>
+    <guid>ja-4097130-1761695524</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:04 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097130/5ec6a668ffa6b01f3d4aefa242f3c5c2dbf83cdd/capsule_184x69.jpg?t=1760673403" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097130/5ec6a668ffa6b01f3d4aefa242f3c5c2dbf83cdd/capsule_184x69.jpg?t=1760673403" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Bullet Horizon VR: Covert Ops</title>
     <link>https://store.steampowered.com/app/4097160/</link>
-    <guid>ja-4097160-1761694539</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:39 +0000</pubDate>
+    <guid>ja-4097160-1761695524</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:04 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097160/30c8d696c7c0c301626034cc8a296f7fa6bc1cca/capsule_184x69.jpg?t=1761578148" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097160/30c8d696c7c0c301626034cc8a296f7fa6bc1cca/capsule_184x69.jpg?t=1761578148" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] IN LOVE: Mystic Passions Pack</title>
     <link>https://store.steampowered.com/app/4097190/</link>
-    <guid>ja-4097190-1761694538</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:38 +0000</pubDate>
+    <guid>ja-4097190-1761695522</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:02 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097190/fa231e2d98f456800624f3357b68630e2086601a/capsule_184x69.jpg?t=1760675385" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097190/fa231e2d98f456800624f3357b68630e2086601a/capsule_184x69.jpg?t=1760675385" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] IN LOVE: Temptations in Amsterdam</title>
     <link>https://store.steampowered.com/app/4097200/</link>
-    <guid>ja-4097200-1761694537</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:37 +0000</pubDate>
+    <guid>ja-4097200-1761695522</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:02 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097200/410ac5d33c4b60627239750f9f2f1c48c256cfe2/capsule_184x69.jpg?t=1761291973" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097200/410ac5d33c4b60627239750f9f2f1c48c256cfe2/capsule_184x69.jpg?t=1761291973" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] HERO IS DEAD</title>
     <link>https://store.steampowered.com/app/4097250/</link>
-    <guid>ja-4097250-1761694536</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:36 +0000</pubDate>
+    <guid>ja-4097250-1761695520</guid>
+    <pubDate>Tue, 28 Oct 2025 23:52:00 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097250/0c8085f4ecaa6e50adf765f732906bd61325d807/capsule_184x69.jpg?t=1761621247" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097250/0c8085f4ecaa6e50adf765f732906bd61325d807/capsule_184x69.jpg?t=1761621247" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Out of Place: Origin</title>
     <link>https://store.steampowered.com/app/4097370/</link>
-    <guid>ja-4097370-1761694535</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:35 +0000</pubDate>
+    <guid>ja-4097370-1761695519</guid>
+    <pubDate>Tue, 28 Oct 2025 23:51:59 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097370/ada3256f51e4b39d3c6a607dd3881cedfaa179fb/capsule_184x69.jpg?t=1761649280" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097370/ada3256f51e4b39d3c6a607dd3881cedfaa179fb/capsule_184x69.jpg?t=1761649280" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Aero</title>
     <link>https://store.steampowered.com/app/4097410/</link>
-    <guid>ja-4097410-1761694534</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:34 +0000</pubDate>
+    <guid>ja-4097410-1761695517</guid>
+    <pubDate>Tue, 28 Oct 2025 23:51:57 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097410/8c62d41aeeb2bf3c75a96f806d27fdb18d03cbbb/capsule_184x69.jpg?t=1761667005" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097410/8c62d41aeeb2bf3c75a96f806d27fdb18d03cbbb/capsule_184x69.jpg?t=1761667005" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Fragments of Waifu 2</title>
     <link>https://store.steampowered.com/app/4097540/</link>
-    <guid>ja-4097540-1761694531</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:31 +0000</pubDate>
+    <guid>ja-4097540-1761695515</guid>
+    <pubDate>Tue, 28 Oct 2025 23:51:55 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097540/bb32b19496fb090231748a4bee06c69f7c00d965/capsule_184x69.jpg?t=1761449798" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097540/bb32b19496fb090231748a4bee06c69f7c00d965/capsule_184x69.jpg?t=1761449798" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Imagine Wind</title>
     <link>https://store.steampowered.com/app/4097860/</link>
-    <guid>ja-4097860-1761694528</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:28 +0000</pubDate>
+    <guid>ja-4097860-1761695511</guid>
+    <pubDate>Tue, 28 Oct 2025 23:51:51 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097860/b406dff5da6aa0cdad3199c8c734ca3d87ab6bdd/capsule_184x69.jpg?t=1761205250" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097860/b406dff5da6aa0cdad3199c8c734ca3d87ab6bdd/capsule_184x69.jpg?t=1761205250" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] RUST MOON Demo</title>
     <link>https://store.steampowered.com/app/4097870/</link>
-    <guid>ja-4097870-1761694528</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:28 +0000</pubDate>
+    <guid>ja-4097870-1761695510</guid>
+    <pubDate>Tue, 28 Oct 2025 23:51:50 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097870/f92ae155c72ac7c61339e1219eaac4df1ff52743/capsule_184x69.jpg?t=1760357647" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097870/f92ae155c72ac7c61339e1219eaac4df1ff52743/capsule_184x69.jpg?t=1760357647" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Sweetie Candy Maze: Pink Raspberry</title>
     <link>https://store.steampowered.com/app/4097890/</link>
-    <guid>ja-4097890-1761694527</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:27 +0000</pubDate>
+    <guid>ja-4097890-1761695509</guid>
+    <pubDate>Tue, 28 Oct 2025 23:51:49 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097890/38170930679fd3645b55007877f23701a21e8de9/capsule_184x69.jpg?t=1760537137" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097890/38170930679fd3645b55007877f23701a21e8de9/capsule_184x69.jpg?t=1760537137" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] My Fantasy Room</title>
     <link>https://store.steampowered.com/app/4098180/</link>
-    <guid>ja-4098180-1761694525</guid>
-    <pubDate>Tue, 28 Oct 2025 23:35:25 +0000</pubDate>
+    <guid>ja-4098180-1761695507</guid>
+    <pubDate>Tue, 28 Oct 2025 23:51:47 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098180/67db1cd26538161d75925eded58a540c89429d3e/capsule_184x69.jpg?t=1761147103" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098180/67db1cd26538161d75925eded58a540c89429d3e/capsule_184x69.jpg?t=1761147103" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
-    <title>[JA added] 7 Nights Later Demo</title>
-    <link>https://store.steampowered.com/app/4104500/</link>
-    <guid>ja-4104500-1761694293</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:33 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104500/0858f2684fbb87dc24b73aa69b2750a116f1aa32/capsule_184x69.jpg?t=1761250531" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104500/0858f2684fbb87dc24b73aa69b2750a116f1aa32/capsule_184x69.jpg?t=1761250531" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
+    <title>[JA added] Phantom Fools Demo</title>
+    <link>https://store.steampowered.com/app/4098580/</link>
+    <guid>ja-4098580-1761695501</guid>
+    <pubDate>Tue, 28 Oct 2025 23:51:41 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098580/71cbe92e20973aadc792f7c300476d6e63035e03/capsule_184x69.jpg?t=1760370086" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098580/71cbe92e20973aadc792f7c300476d6e63035e03/capsule_184x69.jpg?t=1760370086" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
-    <title>[JA added] Gravity Shooter Demo</title>
-    <link>https://store.steampowered.com/app/4104580/</link>
-    <guid>ja-4104580-1761694292</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:32 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104580/c4fbd4395892ce830e8626e57d8550eb5d8259bc/capsule_184x69.jpg?t=1761184275" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104580/c4fbd4395892ce830e8626e57d8550eb5d8259bc/capsule_184x69.jpg?t=1761184275" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
+    <title>[JA added] 怪異ジャッジ・ドリーミー</title>
+    <link>https://store.steampowered.com/app/4098670/</link>
+    <guid>ja-4098670-1761695499</guid>
+    <pubDate>Tue, 28 Oct 2025 23:51:39 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098670/48a6983e90c6f0492d818848abc9b50a9db007dc/capsule_184x69.jpg?t=1761653325" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098670/48a6983e90c6f0492d818848abc9b50a9db007dc/capsule_184x69.jpg?t=1761653325" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
-    <title>[JA added] Alien Raid</title>
-    <link>https://store.steampowered.com/app/4104690/</link>
-    <guid>ja-4104690-1761694290</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:30 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104690/5477122c34756e1429219e0c97fef4202031c7a5/capsule_184x69.jpg?t=1760629830" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104690/5477122c34756e1429219e0c97fef4202031c7a5/capsule_184x69.jpg?t=1760629830" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
+    <title>[JA added] PUNCH ARENA</title>
+    <link>https://store.steampowered.com/app/4098770/</link>
+    <guid>ja-4098770-1761695498</guid>
+    <pubDate>Tue, 28 Oct 2025 23:51:38 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098770/3d98c10497e7ded52294dbb161b6425490c8c498/capsule_184x69.jpg?t=1761341495" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098770/3d98c10497e7ded52294dbb161b6425490c8c498/capsule_184x69.jpg?t=1761341495" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
-    <title>[JA added] Fixer Toolkit – Window &amp; Layout Manager</title>
-    <link>https://store.steampowered.com/app/4104760/</link>
-    <guid>ja-4104760-1761694288</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:28 +0000</pubDate>
-    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104760/0ebfbafd853ad19e9277a1faeda03857b3367839/capsule_184x69.jpg?t=1760646222" />
-    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104760/0ebfbafd853ad19e9277a1faeda03857b3367839/capsule_184x69.jpg?t=1760646222" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
+    <title>[JA added] My Giant Sexy Sensei Bullies Me 7</title>
+    <link>https://store.steampowered.com/app/4098820/</link>
+    <guid>ja-4098820-1761695496</guid>
+    <pubDate>Tue, 28 Oct 2025 23:51:36 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098820/1170e06429ceb5c3acac3e7fe8c2e7d07d389a2d/capsule_184x69.jpg?t=1760749342" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098820/1170e06429ceb5c3acac3e7fe8c2e7d07d389a2d/capsule_184x69.jpg?t=1760749342" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] ZUMANU Trip</title>
     <link>https://store.steampowered.com/app/4105390/</link>
-    <guid>ja-4105390-1761694281</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:21 +0000</pubDate>
+    <guid>ja-4105390-1761695261</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:41 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105390/501712dda6b903b89f2c2b5699afceb91253624a/capsule_184x69.jpg?t=1761302401" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105390/501712dda6b903b89f2c2b5699afceb91253624a/capsule_184x69.jpg?t=1761302401" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Desktop Waifu</title>
     <link>https://store.steampowered.com/app/4105510/</link>
-    <guid>ja-4105510-1761694279</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:19 +0000</pubDate>
+    <guid>ja-4105510-1761695259</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:39 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105510/efcc4501bd2b7f52d8dbd23d0b3a699a5c6637a6/capsule_184x69.jpg?t=1761022043" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105510/efcc4501bd2b7f52d8dbd23d0b3a699a5c6637a6/capsule_184x69.jpg?t=1761022043" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] FUSHA2  Nocturnal Fishing</title>
     <link>https://store.steampowered.com/app/4105570/</link>
-    <guid>ja-4105570-1761694278</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:18 +0000</pubDate>
+    <guid>ja-4105570-1761695259</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:39 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105570/4c5e3cbb9a0bc4cd4ac4a39548b554918e8325a1/capsule_184x69.jpg?t=1761670297" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105570/4c5e3cbb9a0bc4cd4ac4a39548b554918e8325a1/capsule_184x69.jpg?t=1761670297" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] FUSHA2  Nocturnal Fishing</title>
     <link>https://store.steampowered.com/app/4105680/</link>
-    <guid>ja-4105680-1761694277</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:17 +0000</pubDate>
+    <guid>ja-4105680-1761695257</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:37 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105680/4c5e3cbb9a0bc4cd4ac4a39548b554918e8325a1/capsule_184x69.jpg?t=1761670400" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105680/4c5e3cbb9a0bc4cd4ac4a39548b554918e8325a1/capsule_184x69.jpg?t=1761670400" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Floor 13</title>
     <link>https://store.steampowered.com/app/4105730/</link>
-    <guid>ja-4105730-1761694276</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:16 +0000</pubDate>
+    <guid>ja-4105730-1761695257</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:37 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105730/534b4e6ec775bb593dadd890a84b54db66868a81/capsule_184x69.jpg?t=1761292357" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105730/534b4e6ec775bb593dadd890a84b54db66868a81/capsule_184x69.jpg?t=1761292357" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] AI Snake - Adorable Snakes</title>
     <link>https://store.steampowered.com/app/4105820/</link>
-    <guid>ja-4105820-1761694275</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:15 +0000</pubDate>
+    <guid>ja-4105820-1761695256</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:36 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105820/a0b26780e749016d90a03e7e9e181f12cb12afbc/capsule_184x69.jpg?t=1760707819" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105820/a0b26780e749016d90a03e7e9e181f12cb12afbc/capsule_184x69.jpg?t=1760707819" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] AI Snake - Mouthwatering Foods</title>
     <link>https://store.steampowered.com/app/4105830/</link>
-    <guid>ja-4105830-1761694275</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:15 +0000</pubDate>
+    <guid>ja-4105830-1761695256</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:36 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105830/250ece7907678311191d39d6eef864463cc972c5/capsule_184x69.jpg?t=1760707823" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105830/250ece7907678311191d39d6eef864463cc972c5/capsule_184x69.jpg?t=1760707823" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] AI Snake - Gorgeous Maps</title>
     <link>https://store.steampowered.com/app/4105840/</link>
-    <guid>ja-4105840-1761694274</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:14 +0000</pubDate>
+    <guid>ja-4105840-1761695255</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:35 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105840/db95eb0092f7ba3b8cc08bfba1f8f84b74f685aa/capsule_184x69.jpg?t=1760707826" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105840/db95eb0092f7ba3b8cc08bfba1f8f84b74f685aa/capsule_184x69.jpg?t=1760707826" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Shutter Evidence Demo</title>
     <link>https://store.steampowered.com/app/4105880/</link>
-    <guid>ja-4105880-1761694274</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:14 +0000</pubDate>
+    <guid>ja-4105880-1761695255</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:35 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105880/e872df4d9818609b0a105a3d385973babee2ace7/capsule_184x69.jpg?t=1761632627" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105880/e872df4d9818609b0a105a3d385973babee2ace7/capsule_184x69.jpg?t=1761632627" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Dog Jump Demo</title>
     <link>https://store.steampowered.com/app/4106020/</link>
-    <guid>ja-4106020-1761694273</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:13 +0000</pubDate>
+    <guid>ja-4106020-1761695254</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:34 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106020/83b041191ef996342a2775eb8ae150f48e2137e7/capsule_184x69.jpg?t=1761389199" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106020/83b041191ef996342a2775eb8ae150f48e2137e7/capsule_184x69.jpg?t=1761389199" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Isekai HKV Demo</title>
     <link>https://store.steampowered.com/app/4106030/</link>
-    <guid>ja-4106030-1761694273</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:13 +0000</pubDate>
+    <guid>ja-4106030-1761695254</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:34 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106030/215f0c1e6460ae3f16eb18990fdd298444876fc0/capsule_184x69.jpg?t=1761433042" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106030/215f0c1e6460ae3f16eb18990fdd298444876fc0/capsule_184x69.jpg?t=1761433042" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Wasteland Xia: A Tale</title>
     <link>https://store.steampowered.com/app/4106100/</link>
-    <guid>ja-4106100-1761694272</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:12 +0000</pubDate>
+    <guid>ja-4106100-1761695253</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:33 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106100/b844272668d11db86ee9b7f8174eba80732d8bd5/capsule_184x69.jpg?t=1761443478" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106100/b844272668d11db86ee9b7f8174eba80732d8bd5/capsule_184x69.jpg?t=1761443478" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Empire’s Supreme Command Demo</title>
     <link>https://store.steampowered.com/app/4106250/</link>
-    <guid>ja-4106250-1761694270</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:10 +0000</pubDate>
+    <guid>ja-4106250-1761695251</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:31 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106250/cb4a98ed59fb4475902f4c0bc8f4456d1354efc7/capsule_184x69.jpg?t=1761110525" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106250/cb4a98ed59fb4475902f4c0bc8f4456d1354efc7/capsule_184x69.jpg?t=1761110525" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] SEARCH ALL - BONES</title>
     <link>https://store.steampowered.com/app/4106520/</link>
-    <guid>ja-4106520-1761694265</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:05 +0000</pubDate>
+    <guid>ja-4106520-1761695247</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:27 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106520/1f9eb6242c25ed262d8f572fa6e32cac7a866490/capsule_184x69.jpg?t=1760803557" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106520/1f9eb6242c25ed262d8f572fa6e32cac7a866490/capsule_184x69.jpg?t=1760803557" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] OreMania</title>
     <link>https://store.steampowered.com/app/4106860/</link>
-    <guid>ja-4106860-1761694260</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:00 +0000</pubDate>
+    <guid>ja-4106860-1761695242</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:22 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106860/4be62c5f28e86ee0a0e21b2c5c66e335025dbe21/capsule_184x69.jpg?t=1761522081" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106860/4be62c5f28e86ee0a0e21b2c5c66e335025dbe21/capsule_184x69.jpg?t=1761522081" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Pachi-Pachi Typing</title>
     <link>https://store.steampowered.com/app/4106900/</link>
-    <guid>ja-4106900-1761694260</guid>
-    <pubDate>Tue, 28 Oct 2025 23:31:00 +0000</pubDate>
+    <guid>ja-4106900-1761695241</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:21 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106900/dd858a1b555b6c91b0af8b6bdc1aef1cc02f5007/capsule_184x69.jpg?t=1761665972" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106900/dd858a1b555b6c91b0af8b6bdc1aef1cc02f5007/capsule_184x69.jpg?t=1761665972" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Rolling Ball: HD Remaster - Balls</title>
     <link>https://store.steampowered.com/app/4107510/</link>
-    <guid>ja-4107510-1761694258</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:58 +0000</pubDate>
+    <guid>ja-4107510-1761695239</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:19 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107510/c43da7c10ef5d8d69f7a2a3adb83052cbc17d9b8/capsule_184x69.jpg?t=1761312618" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107510/c43da7c10ef5d8d69f7a2a3adb83052cbc17d9b8/capsule_184x69.jpg?t=1761312618" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Rolling Ball: HD Remaster - Cores</title>
     <link>https://store.steampowered.com/app/4107520/</link>
-    <guid>ja-4107520-1761694257</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:57 +0000</pubDate>
+    <guid>ja-4107520-1761695239</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:19 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107520/a5714b7daf9db2438da2790e38ddf47ae049c25f/capsule_184x69.jpg?t=1761312617" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107520/a5714b7daf9db2438da2790e38ddf47ae049c25f/capsule_184x69.jpg?t=1761312617" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Rolling Ball: HD Remaster - Trails</title>
     <link>https://store.steampowered.com/app/4107530/</link>
-    <guid>ja-4107530-1761694257</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:57 +0000</pubDate>
+    <guid>ja-4107530-1761695238</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:18 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107530/5a32544f66998badb5b604de1f84416801056913/capsule_184x69.jpg?t=1761312645" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107530/5a32544f66998badb5b604de1f84416801056913/capsule_184x69.jpg?t=1761312645" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Rolling Ball: HD Remaster - Levels</title>
     <link>https://store.steampowered.com/app/4107540/</link>
-    <guid>ja-4107540-1761694257</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:57 +0000</pubDate>
+    <guid>ja-4107540-1761695238</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:18 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107540/e56b674206a6521f2991f4e7fb25c3c878dce91d/capsule_184x69.jpg?t=1761054525" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107540/e56b674206a6521f2991f4e7fb25c3c878dce91d/capsule_184x69.jpg?t=1761054525" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Push Box 3D 推箱子3D</title>
     <link>https://store.steampowered.com/app/4107600/</link>
-    <guid>ja-4107600-1761694256</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:56 +0000</pubDate>
+    <guid>ja-4107600-1761695237</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:17 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107600/ead5c4fbccb69949d3aef13c742868ae9096ae71/capsule_184x69.jpg?t=1761281646" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107600/ead5c4fbccb69949d3aef13c742868ae9096ae71/capsule_184x69.jpg?t=1761281646" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Medieval Fury</title>
     <link>https://store.steampowered.com/app/4108170/</link>
-    <guid>ja-4108170-1761694253</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:53 +0000</pubDate>
+    <guid>ja-4108170-1761695233</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:13 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108170/cf6c14514344ecc03465149446903572dbdb5a3a/capsule_184x69.jpg?t=1760784954" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108170/cf6c14514344ecc03465149446903572dbdb5a3a/capsule_184x69.jpg?t=1760784954" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] KALPA: Cosmic Symphony - Rotaeno Collaboration Pack</title>
     <link>https://store.steampowered.com/app/4108350/</link>
-    <guid>ja-4108350-1761694252</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:52 +0000</pubDate>
+    <guid>ja-4108350-1761695232</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:12 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108350/c45449c60f47c3f16596ec804ffd5fa96ddccf11/capsule_184x69.jpg?t=1761210030" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108350/c45449c60f47c3f16596ec804ffd5fa96ddccf11/capsule_184x69.jpg?t=1761210030" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] The Hambagu Shop Demo</title>
     <link>https://store.steampowered.com/app/4108400/</link>
-    <guid>ja-4108400-1761694252</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:52 +0000</pubDate>
+    <guid>ja-4108400-1761695232</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:12 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108400/1b1d4af4694e9cdb10a5f155dbd4dc14d2b60126/capsule_184x69.jpg?t=1761240566" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108400/1b1d4af4694e9cdb10a5f155dbd4dc14d2b60126/capsule_184x69.jpg?t=1761240566" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Marshallese Dominatrixes Are the Best</title>
     <link>https://store.steampowered.com/app/4108750/</link>
-    <guid>ja-4108750-1761694248</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:48 +0000</pubDate>
+    <guid>ja-4108750-1761695228</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:08 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108750/ec02dabf4c63a118b38b1ca9719b29fce2d69d2b/capsule_184x69.jpg?t=1760989029" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108750/ec02dabf4c63a118b38b1ca9719b29fce2d69d2b/capsule_184x69.jpg?t=1760989029" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Vitavania</title>
     <link>https://store.steampowered.com/app/4108940/</link>
-    <guid>ja-4108940-1761694246</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:46 +0000</pubDate>
+    <guid>ja-4108940-1761695225</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:05 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108940/63a690aec156dca6613076dd74459fe7c05c0b97/capsule_184x69.jpg?t=1760881335" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108940/63a690aec156dca6613076dd74459fe7c05c0b97/capsule_184x69.jpg?t=1760881335" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Hopward Demo</title>
     <link>https://store.steampowered.com/app/4109000/</link>
-    <guid>ja-4109000-1761694245</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:45 +0000</pubDate>
+    <guid>ja-4109000-1761695224</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:04 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109000/06f665d4c4d19eda7c6b80f7fd596d64d2eee035/capsule_184x69.jpg?t=1761252067" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109000/06f665d4c4d19eda7c6b80f7fd596d64d2eee035/capsule_184x69.jpg?t=1761252067" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] WorkParadise</title>
     <link>https://store.steampowered.com/app/4109200/</link>
-    <guid>ja-4109200-1761694244</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:44 +0000</pubDate>
+    <guid>ja-4109200-1761695223</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:03 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109200/4bd1713f81410fe22a7bca7b59417fa697d3bd48/capsule_184x69.jpg?t=1761313054" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109200/4bd1713f81410fe22a7bca7b59417fa697d3bd48/capsule_184x69.jpg?t=1761313054" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Akasha: Taliokata's Tomb</title>
     <link>https://store.steampowered.com/app/4109390/</link>
-    <guid>ja-4109390-1761694242</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:42 +0000</pubDate>
+    <guid>ja-4109390-1761695221</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:01 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109390/b1032b4a87fb2421adae33910ff67e53046b7c1c/capsule_184x69.jpg?t=1761560072" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109390/b1032b4a87fb2421adae33910ff67e53046b7c1c/capsule_184x69.jpg?t=1761560072" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Aero - All Skins Unlocked</title>
     <link>https://store.steampowered.com/app/4109450/</link>
-    <guid>ja-4109450-1761694242</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:42 +0000</pubDate>
+    <guid>ja-4109450-1761695220</guid>
+    <pubDate>Tue, 28 Oct 2025 23:47:00 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109450/923e5dede52e9aaba6491338ab9a77313e91c5ea/capsule_184x69.jpg?t=1761432154" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109450/923e5dede52e9aaba6491338ab9a77313e91c5ea/capsule_184x69.jpg?t=1761432154" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] MA 2 – President Simulator</title>
     <link>https://store.steampowered.com/app/4109480/</link>
-    <guid>ja-4109480-1761694241</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:41 +0000</pubDate>
+    <guid>ja-4109480-1761695219</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:59 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109480/fa250d930b85688102839aa2859ec5418295ce12/capsule_184x69.jpg?t=1761014726" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109480/fa250d930b85688102839aa2859ec5418295ce12/capsule_184x69.jpg?t=1761014726" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Perfect Timeline</title>
     <link>https://store.steampowered.com/app/4109640/</link>
-    <guid>ja-4109640-1761694239</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:39 +0000</pubDate>
+    <guid>ja-4109640-1761695216</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:56 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109640/368d0b9fceb719794cd1f24be1b33932c5005bec/capsule_184x69.jpg?t=1761243869" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109640/368d0b9fceb719794cd1f24be1b33932c5005bec/capsule_184x69.jpg?t=1761243869" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Grand Donald Trump Simulator</title>
     <link>https://store.steampowered.com/app/4109850/</link>
-    <guid>ja-4109850-1761694237</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:37 +0000</pubDate>
+    <guid>ja-4109850-1761695214</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:54 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109850/91c4d938804d4c3cb9e9b256255d735700a8da7c/capsule_184x69.jpg?t=1761506581" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109850/91c4d938804d4c3cb9e9b256255d735700a8da7c/capsule_184x69.jpg?t=1761506581" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Nauruan Dominatrixes Are the Best</title>
     <link>https://store.steampowered.com/app/4110200/</link>
-    <guid>ja-4110200-1761694235</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:35 +0000</pubDate>
+    <guid>ja-4110200-1761695212</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:52 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110200/381a6f16e2550d00afa5884e630a62f661dbde4b/capsule_184x69.jpg?t=1761016853" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110200/381a6f16e2550d00afa5884e630a62f661dbde4b/capsule_184x69.jpg?t=1761016853" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Aircraft Dispatcher: Ground Operations</title>
     <link>https://store.steampowered.com/app/4110470/</link>
-    <guid>ja-4110470-1761694233</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:33 +0000</pubDate>
+    <guid>ja-4110470-1761695210</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:50 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110470/43dca77a64ebf3cb3ddc68f6723bd7e70ad70dbc/capsule_184x69.jpg?t=1761465445" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110470/43dca77a64ebf3cb3ddc68f6723bd7e70ad70dbc/capsule_184x69.jpg?t=1761465445" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Hentai Clicker: Cassandra is streaming</title>
     <link>https://store.steampowered.com/app/4110480/</link>
-    <guid>ja-4110480-1761694233</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:33 +0000</pubDate>
+    <guid>ja-4110480-1761695210</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:50 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110480/c45286f4178bceaa834254f066fac7d47c2986c9/capsule_184x69.jpg?t=1761497700" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110480/c45286f4178bceaa834254f066fac7d47c2986c9/capsule_184x69.jpg?t=1761497700" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Vanlife Journey and Bunny’s Wishlist</title>
     <link>https://store.steampowered.com/app/4110500/</link>
-    <guid>ja-4110500-1761694233</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:33 +0000</pubDate>
+    <guid>ja-4110500-1761695210</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:50 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110500/bce3804ab1ba7c6636d00437de6e61fe4105edf8/capsule_184x69.jpg?t=1761355597" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110500/bce3804ab1ba7c6636d00437de6e61fe4105edf8/capsule_184x69.jpg?t=1761355597" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] JR EAST Train Simulator: Yokohama Line (Ōfuna to Hachiōji）Series E233-6000</title>
     <link>https://store.steampowered.com/app/4110510/</link>
-    <guid>ja-4110510-1761694232</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:32 +0000</pubDate>
+    <guid>ja-4110510-1761695209</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:49 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110510/936b8b24043c1c47aa215f954dcb9be54f515bbb/capsule_184x69.jpg?t=1761629603" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110510/936b8b24043c1c47aa215f954dcb9be54f515bbb/capsule_184x69.jpg?t=1761629603" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Meow Dream Home</title>
     <link>https://store.steampowered.com/app/4110570/</link>
-    <guid>ja-4110570-1761694231</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:31 +0000</pubDate>
+    <guid>ja-4110570-1761695209</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:49 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110570/563ccdafdc60de2e8b20720b4fb81e9921dd82f6/capsule_184x69.jpg?t=1761442131" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110570/563ccdafdc60de2e8b20720b4fb81e9921dd82f6/capsule_184x69.jpg?t=1761442131" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Meowmories -meowmare adventure-</title>
     <link>https://store.steampowered.com/app/4110900/</link>
-    <guid>ja-4110900-1761694229</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:29 +0000</pubDate>
+    <guid>ja-4110900-1761695206</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:46 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110900/cba5552360ca9c7fe237c4f6c488705201eef7ca/capsule_184x69.jpg?t=1761581323" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110900/cba5552360ca9c7fe237c4f6c488705201eef7ca/capsule_184x69.jpg?t=1761581323" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] The Underpass</title>
     <link>https://store.steampowered.com/app/4111120/</link>
-    <guid>ja-4111120-1761694226</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:26 +0000</pubDate>
+    <guid>ja-4111120-1761695202</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:42 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111120/19ec2383b3155a94dbaa0f9846956f005f00f2e5/capsule_184x69.jpg?t=1761232783" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111120/19ec2383b3155a94dbaa0f9846956f005f00f2e5/capsule_184x69.jpg?t=1761232783" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] ピザとお酒と萃香ちゃんと！</title>
     <link>https://store.steampowered.com/app/4111230/</link>
-    <guid>ja-4111230-1761694225</guid>
-    <pubDate>Tue, 28 Oct 2025 23:30:25 +0000</pubDate>
+    <guid>ja-4111230-1761695201</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:41 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111230/adfdeb9bd0fc66ec2d4f9b0531d59467fbcb637b/capsule_184x69.jpg?t=1761091816" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111230/adfdeb9bd0fc66ec2d4f9b0531d59467fbcb637b/capsule_184x69.jpg?t=1761091816" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
+    <title>[JA added] Cosmist</title>
+    <link>https://store.steampowered.com/app/4111800/</link>
+    <guid>ja-4111800-1761695196</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:36 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111800/bbcb0634adb9e47168b625b347045fa7a88788e7/capsule_184x69.jpg?t=1761539082" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111800/bbcb0634adb9e47168b625b347045fa7a88788e7/capsule_184x69.jpg?t=1761539082" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
+  </item>
+  <item>
+    <title>[JA added] Spirit Magician</title>
+    <link>https://store.steampowered.com/app/4111920/</link>
+    <guid>ja-4111920-1761695196</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:36 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111920/e620b1c347b42e07f6e262f4e987ced2dd9356e1/capsule_184x69.jpg?t=1761548626" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111920/e620b1c347b42e07f6e262f4e987ced2dd9356e1/capsule_184x69.jpg?t=1761548626" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
+  </item>
+  <item>
+    <title>[JA added] ILA: A Frosty Glide – Digital Artbook &amp; Storytelling</title>
+    <link>https://store.steampowered.com/app/4112220/</link>
+    <guid>ja-4112220-1761695193</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:33 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112220/0491fa439ae98549c167e1402b6c596cc058ad9a/capsule_184x69.jpg?t=1761060948" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112220/0491fa439ae98549c167e1402b6c596cc058ad9a/capsule_184x69.jpg?t=1761060948" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
+  </item>
+  <item>
+    <title>[JA added] Asterika: Phantom Rose Refrain Demo</title>
+    <link>https://store.steampowered.com/app/4112250/</link>
+    <guid>ja-4112250-1761695192</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:32 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112250/d97d97612caa1c48daf9e65b4e1c237128352e79/capsule_184x69.jpg?t=1761358158" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112250/d97d97612caa1c48daf9e65b4e1c237128352e79/capsule_184x69.jpg?t=1761358158" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
+  </item>
+  <item>
+    <title>[JA added] Resilient</title>
+    <link>https://store.steampowered.com/app/4112270/</link>
+    <guid>ja-4112270-1761695192</guid>
+    <pubDate>Tue, 28 Oct 2025 23:46:32 +0000</pubDate>
+    <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112270/124012f8f37324a63422aa55f933a6005859cc4d/capsule_184x69.jpg?t=1761575556" />
+    <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112270/124012f8f37324a63422aa55f933a6005859cc4d/capsule_184x69.jpg?t=1761575556" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
+  </item>
+  <item>
     <title>[JA added] AYAKAisDEAD</title>
     <link>https://store.steampowered.com/app/4121160/</link>
-    <guid>ja-4121160-1761693989</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:29 +0000</pubDate>
+    <guid>ja-4121160-1761694966</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:46 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121160/beac6ae3463247f4fac599f685f02604ffb59f51/capsule_184x69.jpg?t=1761692113" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121160/beac6ae3463247f4fac599f685f02604ffb59f51/capsule_184x69.jpg?t=1761692113" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Packing Life Demo</title>
     <link>https://store.steampowered.com/app/4121320/</link>
-    <guid>ja-4121320-1761693988</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:28 +0000</pubDate>
+    <guid>ja-4121320-1761694964</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:44 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121320/33d3180e4607c9e31ce557868e0e7cab4dc90fec/capsule_184x69.jpg?t=1761664109" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121320/33d3180e4607c9e31ce557868e0e7cab4dc90fec/capsule_184x69.jpg?t=1761664109" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Rite of Osiris</title>
     <link>https://store.steampowered.com/app/4121650/</link>
-    <guid>ja-4121650-1761693985</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:25 +0000</pubDate>
+    <guid>ja-4121650-1761694961</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:41 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121650/44977d065fec7f1b0c0dd2d54c05598915d7331f/capsule_184x69.jpg?t=1761374864" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121650/44977d065fec7f1b0c0dd2d54c05598915d7331f/capsule_184x69.jpg?t=1761374864" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Furry Master: XXXmas Fuckfest</title>
     <link>https://store.steampowered.com/app/4121820/</link>
-    <guid>ja-4121820-1761693983</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:23 +0000</pubDate>
+    <guid>ja-4121820-1761694959</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:39 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121820/ad4fa215697dbc6d0df7f9195a44b36c2c22729b/capsule_184x69.jpg?t=1761622404" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121820/ad4fa215697dbc6d0df7f9195a44b36c2c22729b/capsule_184x69.jpg?t=1761622404" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Claim thy Land</title>
     <link>https://store.steampowered.com/app/4122080/</link>
-    <guid>ja-4122080-1761693982</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:22 +0000</pubDate>
+    <guid>ja-4122080-1761694958</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:38 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122080/81dd23b3c1504732e074a8868a4ca60a63710ea6/capsule_184x69.jpg?t=1761370956" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122080/81dd23b3c1504732e074a8868a4ca60a63710ea6/capsule_184x69.jpg?t=1761370956" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Hentai Clicker: Bethy is streaming</title>
     <link>https://store.steampowered.com/app/4122140/</link>
-    <guid>ja-4122140-1761693981</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:21 +0000</pubDate>
+    <guid>ja-4122140-1761694957</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:37 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122140/8b0943fb4464fe619309d6471c525c1cf8197055/capsule_184x69.jpg?t=1761337036" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122140/8b0943fb4464fe619309d6471c525c1cf8197055/capsule_184x69.jpg?t=1761337036" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] XXXX</title>
     <link>https://store.steampowered.com/app/4122200/</link>
-    <guid>ja-4122200-1761693981</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:21 +0000</pubDate>
+    <guid>ja-4122200-1761694957</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:37 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122200/d15f2006a800faabb4d0cf83683c8e1c38e8c728/capsule_184x69.jpg?t=1761463907" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122200/d15f2006a800faabb4d0cf83683c8e1c38e8c728/capsule_184x69.jpg?t=1761463907" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Mini Heroes: Squad Online</title>
     <link>https://store.steampowered.com/app/4122210/</link>
-    <guid>ja-4122210-1761693980</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:20 +0000</pubDate>
+    <guid>ja-4122210-1761694957</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:37 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122210/bace688d2ccdfad77ddec9c1064f5df303892c6b/capsule_184x69.jpg?t=1761469184" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122210/bace688d2ccdfad77ddec9c1064f5df303892c6b/capsule_184x69.jpg?t=1761469184" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Animal Coloring Books for Kids &amp; Toddlers - Dinosaurs</title>
     <link>https://store.steampowered.com/app/4122320/</link>
-    <guid>ja-4122320-1761693980</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:20 +0000</pubDate>
+    <guid>ja-4122320-1761694957</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:37 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122320/8acbad45c3d97a42a05e0c938f07f208b9fca82a/capsule_184x69.jpg?t=1761597623" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122320/8acbad45c3d97a42a05e0c938f07f208b9fca82a/capsule_184x69.jpg?t=1761597623" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Idlemon</title>
     <link>https://store.steampowered.com/app/4122700/</link>
-    <guid>ja-4122700-1761693977</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:17 +0000</pubDate>
+    <guid>ja-4122700-1761694953</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:33 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122700/6a56213f9a0cd2212542c6572c2e730639bcb91f/capsule_184x69.jpg?t=1761491610" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122700/6a56213f9a0cd2212542c6572c2e730639bcb91f/capsule_184x69.jpg?t=1761491610" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Gardener Simulator</title>
     <link>https://store.steampowered.com/app/4122820/</link>
-    <guid>ja-4122820-1761693976</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:16 +0000</pubDate>
+    <guid>ja-4122820-1761694951</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:31 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122820/354c61c9e587944d56f7df319b282ca34355c083/capsule_184x69.jpg?t=1761234411" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122820/354c61c9e587944d56f7df319b282ca34355c083/capsule_184x69.jpg?t=1761234411" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Project Substrata</title>
     <link>https://store.steampowered.com/app/4123520/</link>
-    <guid>ja-4123520-1761693973</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:13 +0000</pubDate>
+    <guid>ja-4123520-1761694948</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:28 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123520/7678b8a07eaa2178222b485ed909023151f76197/capsule_184x69.jpg?t=1761687451" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123520/7678b8a07eaa2178222b485ed909023151f76197/capsule_184x69.jpg?t=1761687451" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Football Life</title>
     <link>https://store.steampowered.com/app/4123760/</link>
-    <guid>ja-4123760-1761693972</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:12 +0000</pubDate>
+    <guid>ja-4123760-1761694948</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:28 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123760/f877576e45609502d2c18d795ea217ab5a2424db/capsule_184x69.jpg?t=1761642890" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123760/f877576e45609502d2c18d795ea217ab5a2424db/capsule_184x69.jpg?t=1761642890" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Pallet Jack Racing</title>
     <link>https://store.steampowered.com/app/4123890/</link>
-    <guid>ja-4123890-1761693972</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:12 +0000</pubDate>
+    <guid>ja-4123890-1761694947</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:27 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123890/e4da7e5095196a800eb0a05f270280f99c14c015/capsule_184x69.jpg?t=1761541737" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123890/e4da7e5095196a800eb0a05f270280f99c14c015/capsule_184x69.jpg?t=1761541737" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] COLORFLY</title>
     <link>https://store.steampowered.com/app/4124390/</link>
-    <guid>ja-4124390-1761693970</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:10 +0000</pubDate>
+    <guid>ja-4124390-1761694945</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:25 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124390/17c10f4ee8ef445db8c1ac90765120e3b2e08e45/capsule_184x69.jpg?t=1761364401" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124390/17c10f4ee8ef445db8c1ac90765120e3b2e08e45/capsule_184x69.jpg?t=1761364401" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Guess The Password Demo</title>
     <link>https://store.steampowered.com/app/4124790/</link>
-    <guid>ja-4124790-1761693969</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:09 +0000</pubDate>
+    <guid>ja-4124790-1761694944</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:24 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124790/a16ef53a0ae4872257ffe17769afc199ab7f8f8c/capsule_184x69.jpg?t=1761285585" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124790/a16ef53a0ae4872257ffe17769afc199ab7f8f8c/capsule_184x69.jpg?t=1761285585" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Oblivium</title>
     <link>https://store.steampowered.com/app/4124970/</link>
-    <guid>ja-4124970-1761693967</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:07 +0000</pubDate>
+    <guid>ja-4124970-1761694943</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:23 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124970/28d1965bbec0d403f510869a700d08cca89ce60d/capsule_184x69.jpg?t=1761502225" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124970/28d1965bbec0d403f510869a700d08cca89ce60d/capsule_184x69.jpg?t=1761502225" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] That's Not My Kind</title>
     <link>https://store.steampowered.com/app/4126270/</link>
-    <guid>ja-4126270-1761693962</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:02 +0000</pubDate>
+    <guid>ja-4126270-1761694938</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:18 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126270/f100812018021e4c4b8d6805c169e50289f4257e/capsule_184x69.jpg?t=1761621104" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126270/f100812018021e4c4b8d6805c169e50289f4257e/capsule_184x69.jpg?t=1761621104" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Bouncemasters - Supporter Bat</title>
     <link>https://store.steampowered.com/app/4126460/</link>
-    <guid>ja-4126460-1761693961</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:01 +0000</pubDate>
+    <guid>ja-4126460-1761694937</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:17 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126460/f33bb6c0366610726c0c963689dbc5075fd1a8fc/capsule_184x69.jpg?t=1761584210" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126460/f33bb6c0366610726c0c963689dbc5075fd1a8fc/capsule_184x69.jpg?t=1761584210" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Inkoid</title>
     <link>https://store.steampowered.com/app/4126470/</link>
-    <guid>ja-4126470-1761693961</guid>
-    <pubDate>Tue, 28 Oct 2025 23:26:01 +0000</pubDate>
+    <guid>ja-4126470-1761694937</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:17 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126470/770b37ae4aa5c190c05bad48a66552d5ea7c841e/capsule_184x69.jpg?t=1761531076" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126470/770b37ae4aa5c190c05bad48a66552d5ea7c841e/capsule_184x69.jpg?t=1761531076" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Void Raider Demo</title>
     <link>https://store.steampowered.com/app/4126950/</link>
-    <guid>ja-4126950-1761693959</guid>
-    <pubDate>Tue, 28 Oct 2025 23:25:59 +0000</pubDate>
+    <guid>ja-4126950-1761694935</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:15 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126950/8d203306101be5ae97d16edcec53e7227e15fef0/capsule_184x69.jpg?t=1761640329" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126950/8d203306101be5ae97d16edcec53e7227e15fef0/capsule_184x69.jpg?t=1761640329" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Vlod, Fronk and Blod Demo</title>
     <link>https://store.steampowered.com/app/4127040/</link>
-    <guid>ja-4127040-1761693959</guid>
-    <pubDate>Tue, 28 Oct 2025 23:25:59 +0000</pubDate>
+    <guid>ja-4127040-1761694934</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:14 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127040/6690e1b7643a6497c58b5bed8c7fc5ba8d7c7897/capsule_184x69.jpg?t=1761572474" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127040/6690e1b7643a6497c58b5bed8c7fc5ba8d7c7897/capsule_184x69.jpg?t=1761572474" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Femdom Hero 3</title>
     <link>https://store.steampowered.com/app/4127970/</link>
-    <guid>ja-4127970-1761693954</guid>
-    <pubDate>Tue, 28 Oct 2025 23:25:54 +0000</pubDate>
+    <guid>ja-4127970-1761694930</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:10 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127970/0c2a17a97693da92d7196f33f934ea81aa81dbef/capsule_184x69.jpg?t=1761610172" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127970/0c2a17a97693da92d7196f33f934ea81aa81dbef/capsule_184x69.jpg?t=1761610172" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Farnia Village</title>
     <link>https://store.steampowered.com/app/4128600/</link>
-    <guid>ja-4128600-1761693951</guid>
-    <pubDate>Tue, 28 Oct 2025 23:25:51 +0000</pubDate>
+    <guid>ja-4128600-1761694927</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:07 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128600/99aba29abe594ee6b93e9dde9ba096e826df3eb6/capsule_184x69.jpg?t=1761653255" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128600/99aba29abe594ee6b93e9dde9ba096e826df3eb6/capsule_184x69.jpg?t=1761653255" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Hentai Travel</title>
     <link>https://store.steampowered.com/app/4129210/</link>
-    <guid>ja-4129210-1761693949</guid>
-    <pubDate>Tue, 28 Oct 2025 23:25:49 +0000</pubDate>
+    <guid>ja-4129210-1761694924</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:04 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4129210/88adbe6b1b0afd78ffb41a347c4e53a9bbe9f58e/capsule_184x69.jpg?t=1761589868" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4129210/88adbe6b1b0afd78ffb41a347c4e53a9bbe9f58e/capsule_184x69.jpg?t=1761589868" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Anime Dream Match: Reptiles</title>
     <link>https://store.steampowered.com/app/4129540/</link>
-    <guid>ja-4129540-1761693948</guid>
-    <pubDate>Tue, 28 Oct 2025 23:25:48 +0000</pubDate>
+    <guid>ja-4129540-1761694923</guid>
+    <pubDate>Tue, 28 Oct 2025 23:42:03 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4129540/f7e6b5e08d8edf20e8fc2726d258503e6ed6c0dc/capsule_184x69.jpg?t=1761475006" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4129540/f7e6b5e08d8edf20e8fc2726d258503e6ed6c0dc/capsule_184x69.jpg?t=1761475006" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Femdom Hero 4</title>
     <link>https://store.steampowered.com/app/4131760/</link>
-    <guid>ja-4131760-1761693944</guid>
-    <pubDate>Tue, 28 Oct 2025 23:25:44 +0000</pubDate>
+    <guid>ja-4131760-1761694918</guid>
+    <pubDate>Tue, 28 Oct 2025 23:41:58 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131760/69a84b748961decc287ef1a346f95b27f559e614/capsule_184x69.jpg?t=1761682926" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131760/69a84b748961decc287ef1a346f95b27f559e614/capsule_184x69.jpg?t=1761682926" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Drive You Crazy Golf</title>
     <link>https://store.steampowered.com/app/4132070/</link>
-    <guid>ja-4132070-1761693943</guid>
-    <pubDate>Tue, 28 Oct 2025 23:25:43 +0000</pubDate>
+    <guid>ja-4132070-1761694917</guid>
+    <pubDate>Tue, 28 Oct 2025 23:41:57 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132070/88b0921faf3508c58916ea0dcca57dc37b2d7d06/capsule_184x69.jpg?t=1761596825" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132070/88b0921faf3508c58916ea0dcca57dc37b2d7d06/capsule_184x69.jpg?t=1761596825" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Little Ghosties</title>
     <link>https://store.steampowered.com/app/4132960/</link>
-    <guid>ja-4132960-1761693942</guid>
-    <pubDate>Tue, 28 Oct 2025 23:25:42 +0000</pubDate>
+    <guid>ja-4132960-1761694915</guid>
+    <pubDate>Tue, 28 Oct 2025 23:41:55 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132960/e97dc83467ea874215bb3ffca493fb49bb585074/capsule_184x69.jpg?t=1761640577" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132960/e97dc83467ea874215bb3ffca493fb49bb585074/capsule_184x69.jpg?t=1761640577" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
   <item>
     <title>[JA added] Stranded Without A Phone</title>
     <link>https://store.steampowered.com/app/4135250/</link>
-    <guid>ja-4135250-1761693940</guid>
-    <pubDate>Tue, 28 Oct 2025 23:25:40 +0000</pubDate>
+    <guid>ja-4135250-1761694912</guid>
+    <pubDate>Tue, 28 Oct 2025 23:41:52 +0000</pubDate>
     <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135250/3c20063c31f6aaf8329264386bfc665dd457c390/capsule_184x69.jpg?t=1761678970" />
     <description>&lt;p&gt;&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135250/3c20063c31f6aaf8329264386bfc665dd457c390/capsule_184x69.jpg?t=1761678970" referrerpolicy="no-referrer" loading="lazy" /&gt;&lt;/p&gt;Japanese language appeared in supported_languages.</description>
   </item>
